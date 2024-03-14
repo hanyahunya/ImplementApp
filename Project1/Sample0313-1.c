@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS /*DesktopConnectTest*/
 #include <stdio.h> // std(Standard 표준) io (input output) 스탠다드io라 읽음
 
 void main() //void 되돌려줄 값이 없는 메소드 리턴값이 있으면 마지막에 return값 줘야함
@@ -21,7 +21,6 @@ void main() //void 되돌려줄 값이 없는 메소드 리턴값이 있으면 마지막에 return값 �
 
 	// %d 정수출력 (10진법) %c 문자출력 (Character) %s 문자출력 (String) %f 소수(float) %lf 소수(double) 
 
-	//homme Tests
 	int a, b;
 	int result;
 
