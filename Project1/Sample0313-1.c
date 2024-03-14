@@ -21,7 +21,7 @@ void main() //void 되돌려줄 값이 없는 메소드 리턴값이 있으면 마지막에 return값 �
 
 	// %d 정수출력 (10진법) %c 문자출력 (Character) %s 문자출력 (String) %f 소수(float) %lf 소수(double) 
 
-
+	//homme Tests
 	int a, b;
 	int result;
 
