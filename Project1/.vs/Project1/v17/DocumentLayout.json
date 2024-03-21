@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HaminJungD\\Desktop\\uni\\1_1\\AppImplement\\CTest\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\HaminJungD\\Desktop\\uni\\ApplicationImplement\\CTest\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00029372-45A2-4F96-B2B9-C94C07084A35}|Project1.vcxproj|C:\\Users\\HaminJungD\\Desktop\\uni\\1_1\\AppImplement\\CTest\\Project1\\Sample0313-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{00029372-45A2-4F96-B2B9-C94C07084A35}|Project1.vcxproj|C:\\Users\\HaminJungD\\Desktop\\uni\\ApplicationImplement\\CTest\\Project1\\Sample0313-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{00029372-45A2-4F96-B2B9-C94C07084A35}|Project1.vcxproj|solutionrelative:Sample0313-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,10 +20,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Sample0313-1.c",
-              "DocumentMoniker": "C:\\Users\\HaminJungD\\Desktop\\uni\\1_1\\AppImplement\\CTest\\Project1\\Sample0313-1.c",
+              "DocumentMoniker": "C:\\Users\\HaminJungD\\Desktop\\uni\\ApplicationImplement\\CTest\\Project1\\Sample0313-1.c",
               "RelativeDocumentMoniker": "Sample0313-1.c",
-              "ToolTip": "C:\\Users\\HaminJungD\\Desktop\\uni\\1_1\\AppImplement\\CTest\\Project1\\Sample0313-1.c",
-              "RelativeToolTip": "Sample0313-1.c",
+              "ToolTip": "C:\\Users\\HaminJungD\\Desktop\\uni\\ApplicationImplement\\CTest\\Project1\\Sample0313-1.c*",
+              "RelativeToolTip": "Sample0313-1.c*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-13T14:55:49.555Z",
