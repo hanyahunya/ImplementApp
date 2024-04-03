@@ -90,12 +90,12 @@ void main() {
 	printf("8진수 => %o \n", a);*/
 
 	// -----------------------------------------
-	/*int jinsu;
+	int jinsu;
 	int num;
 	printf("입력진수 결정 <10> 10진수 <2> 16진수 <3> 8진수 :");
-	scanf("%d", &jinsu);*/
+	scanf("%d", &jinsu);
 	
-	/*if (jinsu == 1) {
+	if (jinsu == 1) {
 		printf("값 입력 ==> ");
 		scanf("%d", &num);
 	}if (jinsu == 2) {
@@ -107,7 +107,7 @@ void main() {
 	}
 	printf("10진수 ==> %d\n", num);
 	printf("16진수 ==> %x\n", num);
-	printf("8진수 ==> %o\n", num);*/
+	printf("8진수 ==> %o\n", num);
 
 	/*switch (jinsu) {
 	case 1 :
